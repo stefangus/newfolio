@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#topnav {
+	width:						1200px;
+	float:						left;
+	margin-bottom:				70px;
+}
+
+#rightnav {
+	float:						right;
+}
+
+.leftnav {
+	font-family:				Arial, Helvetica, sans-serif;
+	font-size:					16px;
+}
+
+#name {
+	width: 						50%;
+    margin: 					0px auto;
+}
+
+#thumbcontainer {
+	width:						1400px;
+	height:						1400px;
+	margin:						70px 0 100px 0;
+}
+
+.thumb {
+	float: 						left;
+    margin: 					0 120px 33px 0;
+	color:						#666
+}
+
+#clienttext {
+	width:						1200px;
+	font-family:				Arial, Helvetica, sans-serif;
+	font-size:					16px;
+	text-align:					center;
+	letter-spacing:				0.65px;
+	margin-bottom:				20px;
+	color:						#666;
+}
+
+#clientspic {
+	margin-bottom:				50px;
+	width: 						50%;
+    margin: 					0px auto;
+}
+
+#footer {
+	width:						1400px;
+}
+
+#footerblock {
+	width:						1200px;
+	height:						80px;
+	background-color:			#666;
+	font-family:				Georgia, "Times New Roman", Times, serif;
+	color:						#FFF;
+}
+
